@@ -1,0 +1,14 @@
+numpy
+librosa
+praat-parselmouth
+joblib
+tqdm
+scikit-learn
+matplotlib
+seaborn
+xgboost
+imblearn
+pandas
+soundfile
+scipy
+natsort
